@@ -17,6 +17,21 @@ namespace ExceptionHandlingExercise
             // and Exceptions will be thrown 
             // Below we will set this up 
             // ------------------------------------------------------------------------------
+            char[] arr = new[] { 'J', 'A', 'R', 'E', 'D', 'M', '1', '2', '3' };
+
+            var numbers = new List<int>();
+
+            string str = " ";
+
+            foreach (var item in arr) ;
+
+            int number;
+
+            try
+            {
+
+            }
+            
 
 
 
